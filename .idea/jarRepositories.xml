@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ebay.nexus.cloud.release" />
+      <option name="name" value="ebay.nexus.cloud.release" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/cloud.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebaycentral.thirdparty" />
+      <option name="name" value="ebaycentral.thirdparty" />
+      <option name="url" value="http://ebaycentral.qa.ebay.com/content/repositories/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.snapshots" />
+      <option name="name" value="ebay.nexus.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="raptor-snapshots" />
+      <option name="name" value="raptor-snapshots" />
+      <option name="url" value="https://ebaycentral.corp.ebay.com/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="raptor-thirdparty" />
+      <option name="name" value="raptor-thirdparty" />
+      <option name="url" value="https://ebaycentral.corp.ebay.com/content/repositories/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.snapshots.cloud" />
+      <option name="name" value="jboss.snapshots.cloud" />
+      <option name="url" value="http://repository.qa.ebay.com/nexus/jboss.snapshots.cloud/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.pass.snapshots" />
+      <option name="name" value="ebay.nexus.pass.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.paas.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.jbpm.release" />
+      <option name="name" value="ebay.nexus.jbpm.release" />
+      <option name="url" value="http://repository.corp.ebay.com/nexus/jbpm.internal.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.sbe.releases" />
+      <option name="name" value="ebay.nexus.sbe.releases" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.sbe.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.ebox.3rdparty" />
+      <option name="name" value="ebay.nexus.ebox.3rdparty" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebox_3rdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.central.releases" />
+      <option name="name" value="ebay central releases Repository" />
+      <option name="url" value="http://ebaycentral/service/local/repositories/releases/content/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.ginger.snapshots" />
+      <option name="name" value="ebay.nexus.ginger.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.ginger.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.raptor2.releases" />
+      <option name="name" value="ebox.raptor2.releases" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/raptor2-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.central.release" />
+      <option name="name" value="ebay.central.release" />
+      <option name="url" value="http://ebaycentral.qa.ebay.com/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven.central.3" />
+      <option name="name" value="maven.central.3" />
+      <option name="url" value="http://ebaycentral.qa.ebay.com/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="typesafe.releases" />
+      <option name="name" value="Typesafe Releases" />
+      <option name="url" value="https://repo.typesafe.com/typesafe/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloud.nexus.release" />
+      <option name="name" value="cloud.nexus.release" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/cloud.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven.central.r4" />
+      <option name="name" value="maven.central.r4" />
+      <option name="url" value="http://ebaycentral.qa.ebay.com/content/repositories/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.releases" />
+      <option name="name" value="ebay.nexus.releases" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.ginger.snapshots" />
+      <option name="name" value="ebox.ginger.snapshots" />
+      <option name="url" value="http://repository.qa.ebay.com/ginger/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Spray" />
+      <option name="name" value="Spray Repo" />
+      <option name="url" value="http://repo.spray.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cmpass.snapshots" />
+      <option name="name" value="cmpass.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.cmpaas.snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.v3debt" />
+      <option name="name" value="ebay.v3debt" />
+      <option name="url" value="http://ebaycentral/content/repositories/v3debt/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.central" />
+      <option name="name" value="ebox.central" />
+      <option name="url" value="http://repository.corp.ebay.com/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.central.2" />
+      <option name="name" value="ebay central Repository" />
+      <option name="url" value="http://ebaycentral/service/local/repositories/central/content/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.sbe.snapshots" />
+      <option name="name" value="ebay.nexus.sbe.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.sbe.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.central.3rd" />
+      <option name="name" value="ebay central third party Repository" />
+      <option name="url" value="http://ebaycentral/service/local/repositories/thirdparty/content/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.cloud.snapshots" />
+      <option name="name" value="ebay.nexus.cloud.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/cloud.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.tracking.releases" />
+      <option name="name" value="ebay.nexus.tracking.releases" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.tracking.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jenkinsci" />
+      <option name="name" value="jenkinsci" />
+      <option name="url" value="https://repo.jenkins-ci.org/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.cmpass.release" />
+      <option name="name" value="ebay.nexus.cmpass.release" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.cmpaas.releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloud.releases" />
+      <option name="name" value="cloud.releases" />
+      <option name="url" value="http://repository.qa.ebay.com/nexus/cloud.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.releases" />
+      <option name="name" value="ebox.releases" />
+      <option name="url" value="http://repository.corp.ebay.com/ebox/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.public" />
+      <option name="name" value="ebay.nexus.public" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring.release" />
+      <option name="name" value="spring.release" />
+      <option name="url" value="http://repo.spring.io/plugins-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.pass.release" />
+      <option name="name" value="ebay.nexus.pass.release" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.paas.releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.ginger.releases" />
+      <option name="name" value="ebay.nexus.ginger.releases" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.ginger.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="raptor-releases" />
+      <option name="name" value="raptor-releases" />
+      <option name="url" value="https://ebaycentral.corp.ebay.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="raptor.v3debt" />
+      <option name="name" value="raptor.v3debt" />
+      <option name="url" value="https://ebaycentral.corp.ebay.com/content/repositories/v3debt/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.jbpm.shapshots" />
+      <option name="name" value="ebay.nexus.jbpm.shapshots" />
+      <option name="url" value="http://repository.corp.ebay.com/nexus/jbpm.internal.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.ginger.releases" />
+      <option name="name" value="ebox.ginger.releases" />
+      <option name="url" value="http://repository.qa.ebay.com/ginger/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="qa.cloud.snapshots" />
+      <option name="name" value="qa.cloud.snapshots" />
+      <option name="url" value="http://repository.qa.ebay.com/nexus/cloud.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.nexus.tracking.snapshots" />
+      <option name="name" value="ebay.nexus.tracking.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/ebay.tracking.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven.central.2" />
+      <option name="name" value="maven.central.2" />
+      <option name="url" value="http://central.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jbpm.snapshots.internal" />
+      <option name="name" value="jbpm.snapshots.internal" />
+      <option name="url" value="http://repository.qa.ebay.com/nexus/jbpm.internal.snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebaycentral.thirdparty.1" />
+      <option name="name" value="ebaycentral.thirdparty.1" />
+      <option name="url" value="http://ebaycentral.qa.ebay.com/content/repositories/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jbpm.releases.internal" />
+      <option name="name" value="jbpm.releases.internal" />
+      <option name="url" value="http://repository.qa.ebay.com/nexus/jbpm.internal.releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebay.central" />
+      <option name="name" value="ebay.central" />
+      <option name="url" value="https://ebaycentral.corp.ebay.com/content/repositories/central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="raptor-commercial" />
+      <option name="name" value="raptor-commercial" />
+      <option name="url" value="https://ebaycentral.corp.ebay.com/content/repositories/commercial/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jenkinsci-snap" />
+      <option name="name" value="jenkinsci-snap" />
+      <option name="url" value="https://repo.jenkins-ci.org/remote-snapshot-repos/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cloudera.releases" />
+      <option name="name" value="Cloudera Hadoop Releases" />
+      <option name="url" value="https://repository.cloudera.com/artifactory/cloudera-repos/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.raptor2.snapshots" />
+      <option name="name" value="ebox.raptor2.snapshots" />
+      <option name="url" value="http://nxrepository.corp.ebay.com/nexus/content/repositories/raptor2-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.snapshots" />
+      <option name="name" value="ebox.snapshots" />
+      <option name="url" value="http://repository.corp.ebay.com/ebox/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ginger.thirdparty" />
+      <option name="name" value="ginger.thirdparty" />
+      <option name="url" value="http://repository.qa.ebay.com/ginger/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven.central" />
+      <option name="name" value="maven.central" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.releases" />
+      <option name="name" value="repository.releases" />
+      <option name="url" value="http://repository.corp.ebay.com/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.releases.cloud" />
+      <option name="name" value="jboss.releases.cloud" />
+      <option name="url" value="http://repository.qa.ebay.com/nexus/jboss.public.cloud/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="typesafe.releases.http" />
+      <option name="name" value="Typesafe Releases" />
+      <option name="url" value="http://repo.typesafe.com/typesafe/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ebox.releases.ebox" />
+      <option name="name" value="ebox.releases.ebox" />
+      <option name="url" value="http://repository.corp.ebay.com/nexus/ebox_releases/" />
+    </remote-repository>
+  </component>
+</project>

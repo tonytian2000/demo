@@ -1,0 +1,2 @@
+#execute the java command at the target/classes directory
+java com.demo.Application
